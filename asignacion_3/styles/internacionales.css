@@ -3,9 +3,9 @@
 }
 body{
     background-image: url("../Publico/globo terraqueo.jpg");
-    background-repeat: no-repeat ;
-    background-size: auto;
-    background-position: top center;
+    background-repeat: repeat ;
+    background-size: 700px;
+    background-position: center;
     height: 100%;
     background-color: rgb(216, 188, 172);
     display: flex;
