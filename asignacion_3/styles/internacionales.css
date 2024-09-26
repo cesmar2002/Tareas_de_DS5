@@ -119,3 +119,34 @@ hr{
 .navButton:hover{
     background-color: antiquewhite;
 }
+footer {
+    color: white; 
+    padding: 10px;
+    text-align: left;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+    font-size: 20px;
+    color: black; 
+}
+
+footer ul li {
+    margin: 3px 0;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+footer p {
+    font-size: smaller;
+    margin: auto;
+}
