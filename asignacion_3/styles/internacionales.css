@@ -91,10 +91,11 @@ hr{
     }
     .descripcionNoticia{
         background-color: white;
-        
         p{
             padding: 12px;
-            
+        }
+        a{
+            text-decoration: none;
         }
     }
 }
